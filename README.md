@@ -1,7 +1,11 @@
 # Barba.js 101
-Working files for Barba.js 101 - Free Online Course by [Petr Tichy](https://ihatetomatoes.net/), [@ihatetomatoes](https://twitter.com/ihatetomatoes).
 
-![Barba.js 101](/assets/img_barbajs-101.png)
+## Barba-css
 
-## Related Links
-[Barba.js 101](https://ihatetomatoes.net/get-barba-101)
+화면전환 js 포맷예제
+![Barba.js 101](/assets/barba-css.mov.gif)
+
+## Barba-gsap
+
+gsap와 같이 사용 포맷예제
+![Barba.js 101](/assets/barba-gsap.mov.gif)
